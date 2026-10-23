@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Comparing the Environmental Product Declarations of Two Comparable Building Products - Which product supports a more sustainable decision?</title>
+<meta name="Subject" content=""/>
+<meta name="Keywords" content=""/>
+<meta name="Author" content="Group __ [0.8ex] Member 1 ([student ID])  Member 2 ([student ID]) [0.3ex] Member 3 ([student ID])  Member 4 ([student ID])"/>
+<meta name="Creator" content="LaTeX with Beamer class"/>
+<meta name="Producer" content="LuaTeX-1.24.0"/>
+<meta name="CreationDate" content="2026-10-23T13:28:15+08"/>
+<meta name="ModDate" content="2026-10-23T13:28:15+08"/>
+</head>
+<body>
+<doc>
+  <page width="362.835000" height="272.126000">
+    <word xMin="28.346000" yMin="15.100121" xMax="127.991836" yMax="28.384702">Environmental</word>
+    <word xMin="131.965733" yMin="15.100121" xMax="218.872144" yMax="28.384702">performance</word>
+    <word xMin="222.860387" yMin="15.100121" xMax="304.174649" yMax="28.384702">comparison</word>
+    <word xMin="41.274000" yMin="65.168072" xMax="79.135436" yMax="73.470940">Indicator</word>
+    <word xMin="81.619123" yMin="65.168072" xMax="98.558409" yMax="73.470940">(per</word>
+    <word xMin="101.051062" yMin="65.168072" xMax="143.885253" yMax="73.470940">functional</word>
+    <word xMin="146.377906" yMin="65.168072" xMax="165.793706" yMax="73.470940">unit)</word>
+    <word xMin="28.868000" yMin="82.306072" xMax="54.788011" yMax="90.608940">Global</word>
+    <word xMin="57.271699" yMin="82.306072" xMax="91.155649" yMax="90.608940">warming</word>
+    <word xMin="93.648302" yMin="82.306072" xMax="127.550185" yMax="90.608940">potential</word>
+    <word xMin="130.033872" yMin="82.306072" xMax="155.788902" yMax="90.608940">(GWP,</word>
+    <word xMin="158.272589" yMin="82.306072" xMax="178.206645" yMax="90.608940">total)</word>
+    <word xMin="36.751000" yMin="93.813072" xMax="62.671011" yMax="102.115940">Global</word>
+    <word xMin="65.154699" yMin="93.813072" xMax="99.038649" yMax="102.115940">warming</word>
+    <word xMin="101.531302" yMin="93.813072" xMax="135.433185" yMax="102.115940">potential</word>
+    <word xMin="137.916872" yMin="93.813072" xMax="170.315990" yMax="102.115940">(A1–A3,</word>
+    <word xMin="74.878000" yMin="104.772072" xMax="104.786257" yMax="113.074940">product</word>
+    <word xMin="107.269944" yMin="104.772072" xMax="132.191101" yMax="113.074940">stage)</word>
+    <word xMin="33.516000" yMin="116.279072" xMax="94.327782" yMax="124.581940">Non-renewable</word>
+    <word xMin="96.811470" yMin="116.279072" xMax="126.701794" yMax="124.581940">primary</word>
+    <word xMin="129.194448" yMin="116.279072" xMax="156.611844" yMax="124.581940">energy</word>
+    <word xMin="159.095532" yMin="116.279072" xMax="173.552923" yMax="124.581940">use</word>
+    <word xMin="41.488000" yMin="127.785072" xMax="86.353972" yMax="136.087940">Renewable</word>
+    <word xMin="88.837660" yMin="127.785072" xMax="118.727984" yMax="136.087940">primary</word>
+    <word xMin="121.220638" yMin="127.785072" xMax="148.638034" yMax="136.087940">energy</word>
+    <word xMin="151.121722" yMin="127.785072" xMax="165.579113" yMax="136.087940">use</word>
+    <word xMin="46.475000" yMin="139.292072" xMax="60.428481" yMax="147.594940">Net</word>
+    <word xMin="62.912168" yMin="139.292072" xMax="82.846224" yMax="147.594940">fresh</word>
+    <word xMin="85.338877" yMin="139.292072" xMax="107.265263" yMax="147.594940">water</word>
+    <word xMin="109.757917" yMin="139.292072" xMax="160.599085" yMax="147.594940">consumption</word>
+    <word xMin="190.675410" yMin="65.168072" xMax="208.104260" yMax="73.470940">Unit</word>
+    <word xMin="237.182230" yMin="65.168072" xMax="271.055420" yMax="73.470940">Product</word>
+    <word xMin="273.216318" yMin="65.168072" xMax="279.691837" yMax="73.470940">A</word>
+    <word xMin="291.644022" yMin="65.168072" xMax="325.517212" yMax="73.470940">Product</word>
+    <word xMin="328.009866" yMin="65.168072" xMax="334.485386" yMax="73.470940">B</word>
+    <word xMin="190.678880" yMin="82.306072" xMax="200.149171" yMax="90.608940">kg</word>
+    <word xMin="202.641824" yMin="82.306072" xMax="216.091394" yMax="90.608940">CO</word>
+    <word xMin="216.093000" yMin="85.573559" xMax="219.745899" yMax="90.881651">2</word>
+    <word xMin="220.244000" yMin="82.306072" xMax="225.231101" yMax="90.608940">e</word>
+    <word xMin="190.683000" yMin="93.813072" xMax="200.153291" yMax="102.115940">kg</word>
+    <word xMin="202.636978" yMin="93.813072" xMax="216.086548" yMax="102.115940">CO</word>
+    <word xMin="216.093000" yMin="97.080559" xMax="219.745899" yMax="102.388651">2</word>
+    <word xMin="220.244000" yMin="93.813072" xMax="225.231101" yMax="102.115940">e</word>
+    <word xMin="237.186000" yMin="82.306072" xMax="258.854154" yMax="90.608940">[value]</word>
+    <word xMin="237.186000" yMin="93.813072" xMax="258.854154" yMax="102.115940">[value]</word>
+    <word xMin="291.644206" yMin="82.306072" xMax="313.312359" yMax="90.608940">[value]</word>
+    <word xMin="291.644206" yMin="93.813072" xMax="313.312359" yMax="102.115940">[value]</word>
+    <word xMin="190.678709" yMin="116.279072" xMax="202.630893" yMax="124.581940">MJ</word>
+    <word xMin="190.676010" yMin="127.785072" xMax="202.628195" yMax="136.087940">MJ</word>
+    <word xMin="190.681290" yMin="139.292072" xMax="198.150284" yMax="147.594940">m</word>
+    <word xMin="198.152000" yMin="137.754559" xMax="201.804899" yMax="143.062651">3</word>
+    <word xMin="237.186000" yMin="116.279072" xMax="258.854154" yMax="124.581940">[value]</word>
+    <word xMin="237.186000" yMin="127.785072" xMax="258.854154" yMax="136.087940">[value]</word>
+    <word xMin="237.186000" yMin="139.292072" xMax="258.854154" yMax="147.594940">[value]</word>
+    <word xMin="291.644206" yMin="116.279072" xMax="313.312359" yMax="124.581940">[value]</word>
+    <word xMin="291.644206" yMin="127.785072" xMax="313.312359" yMax="136.087940">[value]</word>
+    <word xMin="291.644206" yMin="139.292072" xMax="313.312359" yMax="147.594940">[value]</word>
+    <word xMin="39.095000" yMin="160.064750" xMax="62.911687" yMax="169.290154">Table</word>
+    <word xMin="65.671338" yMin="160.064750" xMax="73.980180" yMax="169.290154">1:</word>
+    <word xMin="76.756000" yMin="160.064750" xMax="116.628478" yMax="169.290154">Declared</word>
+    <word xMin="119.388129" yMin="160.064750" xMax="181.969449" yMax="169.290154">environmental</word>
+    <word xMin="184.739062" yMin="160.064750" xMax="227.379162" yMax="169.290154">indicators</word>
+    <word xMin="230.138813" yMin="160.064750" xMax="241.765214" yMax="169.290154">for</word>
+    <word xMin="244.534828" yMin="160.064750" xMax="283.851390" yMax="169.290154">Products</word>
+    <word xMin="286.073059" yMin="160.064750" xMax="292.718140" yMax="169.290154">A</word>
+    <word xMin="294.929846" yMin="160.064750" xMax="311.553507" yMax="169.290154">and</word>
+    <word xMin="314.323121" yMin="160.064750" xMax="323.735823" yMax="169.290154">B.</word>
+    <word xMin="28.346000" yMin="193.661072" xMax="55.732014" yMax="201.963940">[Source:</word>
+    <word xMin="58.457794" yMin="193.661072" xMax="73.571524" yMax="201.963940">EPD</word>
+    <word xMin="75.615859" yMin="193.661072" xMax="82.563907" yMax="201.963940">A,</word>
+    <word xMin="84.608241" yMin="193.661072" xMax="100.554051" yMax="201.963940">table</word>
+    <word xMin="102.589420" yMin="193.661072" xMax="112.812886" yMax="201.963940">__;</word>
+    <word xMin="114.857221" yMin="193.661072" xMax="129.970951" yMax="201.963940">EPD</word>
+    <word xMin="132.015286" yMin="193.661072" xMax="138.963333" yMax="201.963940">B,</word>
+    <word xMin="141.007668" yMin="193.661072" xMax="156.953478" yMax="201.963940">table</word>
+    <word xMin="158.997813" yMin="193.661072" xMax="169.221279" yMax="201.963940">__;</word>
+    <word xMin="171.265614" yMin="193.661072" xMax="178.620736" yMax="201.963940">all</word>
+    <word xMin="180.665070" yMin="193.661072" xMax="201.922564" yMax="201.963940">values</word>
+    <word xMin="203.966899" yMin="193.661072" xMax="214.592955" yMax="201.963940">per</word>
+    <word xMin="216.637290" yMin="193.661072" xMax="226.860757" yMax="201.963940">the</word>
+    <word xMin="228.905091" yMin="193.661072" xMax="260.385155" yMax="201.963940">functional</word>
+    <word xMin="262.429489" yMin="193.661072" xMax="274.285734" yMax="201.963940">unit</word>
+    <word xMin="276.330068" yMin="193.661072" xMax="296.365444" yMax="201.963940">stated</word>
+    <word xMin="298.409779" yMin="193.661072" xMax="306.588911" yMax="201.963940">on</word>
+    <word xMin="308.633246" yMin="193.661072" xMax="323.755942" yMax="201.963940">slide</word>
+    <word xMin="325.800277" yMin="193.661072" xMax="333.978512" yMax="201.963940">2.]</word>
+    <word xMin="15.940000" yMin="251.954401" xMax="29.674094" yMax="259.334723">The</word>
+    <word xMin="31.881814" yMin="251.954401" xMax="66.869003" yMax="259.334723">University</word>
+    <word xMin="69.084693" yMin="251.954401" xMax="75.731765" yMax="259.334723">of</word>
+    <word xMin="77.947456" yMin="251.954401" xMax="119.589687" yMax="259.334723">Manchester</word>
+    <word xMin="333.158000" yMin="251.954401" xMax="346.892094" yMax="259.334723">3/6</word>
+  </page>
+</doc>
+</body>
+</html>

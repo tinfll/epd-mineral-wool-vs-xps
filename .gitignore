@@ -1,0 +1,8 @@
+# LaTeX build artifacts (regenerated on each compile)
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.synctex.gz

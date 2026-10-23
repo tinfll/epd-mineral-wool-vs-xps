@@ -1,0 +1,103 @@
+%% beamerthemeUoM_alex.sty
+%% A lightweight, self-contained re-creation of the University of Manchester
+%% beamer theme (original: https://github.com/CASSON-LAB/uom_beamer_template).
+%% Local copy so that the deck compiles without network access.
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{beamerthemeUoM_alex}[2026/10/23 v1.0 UoM beamer theme (local)]
+
+\RequirePackage{xcolor}
+
+\mode<presentation>
+
+% University of Manchester brand colours
+\definecolor{uompurple}{HTML}{660099}
+\definecolor{uomlightpurple}{HTML}{A889C6}
+\definecolor{uomgrey}{HTML}{4B4B4B}
+\definecolor{uomlinkblue}{HTML}{0071BC}
+
+% Theme options (kept for compatibility with the original template).
+% Presentation-wide beamer options (e.g. "t") are not theme options, so
+% unknown options must be tolerated rather than turned into errors.
+\def\uom@framenumber{1}
+\DeclareOptionBeamer{framenumber}{\def\uom@framenumber{1}}
+\DeclareOptionBeamer{titleframestart}{\def\uom@titleframestart{#1}}
+\DeclareOptionBeamer{titleframestate}{\def\uom@titleframestart{#1}}
+\ProcessOptionsBeamer
+
+% Colours
+\setbeamercolor{normal text}{fg=black, bg=white}
+\setbeamercolor{structure}{fg=uompurple}
+\setbeamercolor{alerted text}{fg=uompurple}
+\setbeamercolor{frametitle}{fg=uompurple}
+\setbeamercolor{title}{fg=uompurple}
+\setbeamercolor{subtitle}{fg=uomgrey}
+\setbeamercolor{author}{fg=uomgrey}
+\setbeamercolor{institute}{fg=uomgrey}
+\setbeamercolor{date}{fg=uomgrey}
+\setbeamercolor{itemize item}{fg=uompurple}
+\setbeamercolor{itemize subitem}{fg=uomlightpurple}
+\setbeamercolor{itemize subsubitem}{fg=uomgrey}
+\setbeamercolor{caption name}{fg=uompurple}
+\setbeamercolor{block title}{fg=white, bg=uompurple}
+\setbeamercolor{block body}{fg=black, bg=uompurple!8}
+\setbeamercolor{footline}{fg=uomgrey}
+\setbeamercolor{separation line}{fg=uompurple}
+
+% Fonts
+\setbeamerfont{title}{size=\LARGE, series=\bfseries}
+\setbeamerfont{subtitle}{size=\large}
+\setbeamerfont{frametitle}{size=\Large, series=\bfseries}
+\setbeamerfont{author}{size=\normalsize}
+\setbeamerfont{institute}{size=\small}
+\setbeamerfont{date}{size=\small}
+\setbeamerfont{footline}{size=\scriptsize}
+
+% Bullets
+\setbeamertemplate{itemize item}{\raisebox{0.16ex}{\scalebox{0.75}{$\blacktriangleright$}}}
+\setbeamertemplate{itemize subitem}{\raisebox{0.16ex}{\scalebox{0.6}{$\blacktriangleright$}}}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{caption}[numbered]
+
+% Frame title: purple text over a thin purple rule
+\setbeamertemplate{frametitle}{%
+  \vspace*{1.0ex}%
+  {\usebeamerfont{frametitle}\usebeamercolor[fg]{frametitle}\insertframetitle\par}%
+  \vspace*{0.3ex}%
+  {\color{uompurple}\rule{\textwidth}{0.8pt}}%
+}
+
+% Footline: institution on the left, frame number on the right
+\defbeamertemplate*{footline}{uom}{%
+  \ifnum\insertframenumber>1\relax
+    \leavevmode
+    \hbox to \paperwidth{%
+      {\color{uomgrey}\raisebox{1.1ex}[0pt][0pt]{\hspace*{2em}\scriptsize The University of Manchester}}%
+      \hfill
+      {\color{uomgrey}\raisebox{1.1ex}[0pt][0pt]{\scriptsize \insertframenumber\,/\,\inserttotalframenumber\hspace*{2em}}}%
+    }%
+    \vspace{2.4ex}%
+  \fi
+}
+
+% Title page
+\defbeamertemplate*{title page}{uom}{%
+  \vspace*{2.5ex}%
+  {\usebeamerfont{title}\usebeamercolor[fg]{title}\inserttitle\par}%
+  \vspace{1.2ex}%
+  {\color{uompurple}\rule{\textwidth}{1.5pt}}\par
+  \vspace{1.2ex}%
+  {\usebeamerfont{subtitle}\usebeamercolor[fg]{subtitle}\insertsubtitle\par}%
+  \vfill
+  {\usebeamerfont{author}\usebeamercolor[fg]{author}\insertauthor\par}%
+  \vspace{0.8ex}%
+  {\usebeamerfont{institute}\usebeamercolor[fg]{institute}\insertinstitute\par}%
+  \vspace{0.4ex}%
+  {\usebeamerfont{date}\usebeamercolor[fg]{date}\insertdate\par}%
+  \vspace{1ex}%
+}
+
+\setbeamertemplate{itemize/enumerate body begin}{\small}
+\setbeamertemplate{itemize/enumerate subbody begin}{\footnotesize}
+
+\mode<all>
+\endinput

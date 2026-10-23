@@ -1,0 +1,2256 @@
+ENVIRONMENTAL PRODUCT 
+DECLARATION (EPD)
+In accordance with ISO 14025:2006 and EN 15804:2012+A2:2019 for:
+URSA XPS NVII L
+50, 60, 80, 100, 120, 140, 160, 180, 200 mm
+R= 1.50, 1.80, 2.30, 2.80, 3.55, 4.05, 4.60, 5.05, 5.60
+m2
+·K/W
+Owner: URSA INSULATION S.A
+Programme: The International EPD® System, 
+www.environdec.com
+Programme operator: EPD International AB
+EPD registration number: S-P-09927
+Publication date: 2023-07-20
+Revision date: 2026-03-05 (Version 1)
+Valid until: 2028-07-19
+An EPD should provide current information and may be updated if conditions 
+change. The stated validity is therefore subject to the continued registration and publication at www.environdec.com
+2
+1. General information
+1.1. Programme information 
+EPD Owner: URSA Insulation. Paseo de Recoletos 3, 28004 Madrid (Spain)
+Programme used: The International EPD® System. www.environdec.com
+info@environdec.com
+EPD prepared by: Silvia Herranz (URSA Insulation)
+Contact: silvia.herranz@etexgroup.com
+Date of issue: 20-07-2023 Valid: 19-07-2028
+Revision date: 05-03-2026 (version 1)
+Programme: The International EPD® System
+Address:
+EPD International AB 
+Box 210 60 
+SE-100 31 Stockholm
+Sweden
+Website: www.environdec.com
+E-mail: info@environdec.com
+CEN standard EN 15804+A2 serves as the Core Product Category Rules (PCR)
+Product Category Rules (PCR): PCR 2019:14. Construction products (EN 15804+A2) 
+Version 1.11. C-PCR-005 Thermal insulation products (EN 16783:2017) Version: 2019-
+12-20
+PCR review was conducted by: The Technical Committee of the International EPD® 
+System. See www.environdec.com/TC for a list of members.
+Review chair: Claudia A. Peña. The review panel may be contacted via the Secretariat 
+info@environdec.com
+Independent third-party verification of the declaration and data, according to 
+ISO 14025:2006:
+☐ EPD process certification ☒ EPD verification
+Third-party verifier: 
+Marcel Gómez Ferrer, Marcel Gómez Consultoría Ambiental S.L
+Email: info@marcelgomez.com
+Approved by: The International EPD® System
+Procedure for follow-up of data during EPD validity involves third party verifier:
+☒ Yes ☐ No
+The EPD owner has the sole ownership, liability, and responsibility for the EPD. 
+EPDs within the same product category but from different programmes may not 
+be comparable. EPDs of construction products may not be comparable if they do 
+not comply with EN 15804. For further information about comparability, see EN 
+15804 and ISO 14025.
+3
+2. Company information
+Owner of the EPD: URSA Insulation S.A.
+Contact: Silvia Herranz (Sustainability & Technical Manager)
+(silvia.herranz@etexgroup.com)
+Description of the organization: 
+URSA is a company dedicated to the manufacture and commercialization of 
+thermal and acoustic insulation materials oriented towards sustainability and 
+energy efficiency in building. URSA is one of the leading mineral wool and extruded 
+polystyrene (XPS) manufacturers in Europe.
+Product-related or management system-related certifications: 
+Bondeno plant is covered by EPD process certification system, are certified ISO 
+9001, ISO 14001 and ISO 45001.
+Name and location of production site(s): Bondeno Plant - Via Uralita, 10, 
+44012 Bondeno FE, Italy
+3. Product information
+This Environmental Product Declaration (EPD) describes the environmental 
+impacts of 1m² extruded polystyrene insulation, thickness 50, 60, 80, 100, 120, 
+140, 160, 180, and 200 mm and R-value 1.50, 1.80, 2.30, 2.80, 3.55, 4.05, 4.60, 
+5.05, and 5.60 m2
+·K/W respectively.
+URSA manufactures extruded polystyrene (XPS) with recycled materials 
+(polystyrene). The products obtained are presented in the form of an "extruded 
+polystyrene panel" composed of a rigid structure and air.
+On Earth, the best insulator is dry and still air at 10 °C: its coefficient of thermal 
+conductivity, expressed in lambda (λ), is 0.025 W/(m.K) (watts per meter and per 
+degree Kelvin). The thermal conductivity of extruded polystyrene is close to that 
+of air at rest since its lambda varies from 0.029 W/(m.K) for the most efficient, to 
+0.037 W/(m.K) for the least efficient.
+Thanks to its alveolar plastic foam structure, extruded polystyrene is a material 
+that traps air, making it a solution for insulation. In addition, extruded polystyrene 
+has a high level of mechanical compressive strength, which makes it suitable for 
+certain specific applications: underfloor heating, floors, flat roofs, insulation on the 
+outside of buried walls and under foundations.
+Extruded polystyrene insulation is used in buildings and in industrial installations.
+It ensures a high level of comfort, reduces energy costs, minimizes carbon dioxide 
+(CO2) emissions and limits heat loss through ceilings, walls, floors, pipes and 
+boilers.
+4
+The service life of extruded polystyrene product is like that of a building, as it is a 
+component of that installation (often established at 50 years).
+UN CPC code: 369 - Other plastics products
+Geographical scope: The product is manufactured in Italy. The product is 
+marketed mainly in Europe.
+Product name: URSA XPS NVII L
+Product identification: URSA XPS extruded polystyrene panel in accordance with 
+the EN 13164 standard. Supplied in panel format.
+Functional unit: Thermal insulation over 1 m2 of enclosure for the application of 
+interior wall insulation that guarantees the following thermal resistance:
+Thickness (mm) R -Value (m²∙K/W)
+50 1.50
+60 1.80
+80 2.30
+100 2.80
+120 3.55
+140 4.05
+160 4.60
+180 5.05
+200 5.60
+Technical data and physical characteristics:
+Parameters Unit
+Test 
+method Value
+Thickness mm 50 60 80 100 120 140 160 180 200
+R-value m²∙K/W 1.50 1.80 2.30 2.80 3.55 4.05 4.60 5.05 5.60
+Thermal Conductivity W/(m.K) EN 12667
+EN 12939 0.034 0.035 0.036 0.034 0.035 0.036
+Reaction to fire Euroclase EN 13501-1 E
+Thickness tolerance EN 823 T1
+Compressive strength EN 826 CS(10/Y)700
+Deformation under specified 
+compressive load, temperature 
+and time conditions with a 
+maximum of 5%deformation
+EN 1605 DLT(2)5
+Dimensional stability (Δε)
+(70ºC 90% humidity)
+EN 1604 DS(70,90)
+Long term water absorption by 
+total immersion
+EN 12087 WL(T)0,7
+Water absorption by diffusion EN 12088 WD(V)2
+Compressive Creep EN 1606 CC(2/1,5/50)250
+Freeze- thaw resistance after long 
+term water diffusion test
+EN 12088 FTCD1
+Freeze- thaw resistance after
+water vapour inmersion test
+EN 12087 FTCI
+Compressive strength under 
+foundation
+fcd≥355 kPa(DIBt Z-23.34-1493)
+Reference standard to declare the 
+efficacy of the product EN 13164
+Designation code CE XPS-EN 13164-T1-CS(10/Y)700- CC(2/1,5/50)250-DLT(2)5-DS(70,90)-WL(T)0,7-WD(V)2-FTCD1-FTCI
+Application Thermal insulation in Building / thermal Insulation of industrial floor and foundations
+5
+Description of the main components of the extruded polystyrene product:
+4. LCA Information
+Functional unit: It performs the function of thermal isolation on 1 m2 de wall 
+ensuring thermal resistance of 1.50, 1.80, 2.30, 2.80, 3.55, 4.05, 4.60, 5.05, and 5.60
+m2
+∙K/W for application Insulation (xps 2.300-9.200 kg/m2
+) of industrial floor and 
+foundations.
+Reference service life: 50 years
+Time representativeness: Plant production data for the complete year 2020.
+Database(s) and LCA software used: ECOINVENT 3.6, EuGeos' 15804+A2_IA 
+v4.1, OPENLCA 1.10.3 (2020)
+Description of system boundaries:
+Cradle to grave and module D (A + B + C + D)
+Main hypotheses and considerations:
+Product components Weight, kg/m2 Post-consumer 
+material, weight-%
+Thickness, mm 50 60 80 100 120 140 160 180 200
+47%
+Extruded polystyrene 2.300 2.760 3.680 4.600 5.520 6.440 7.360 8.280 9.200
+Extruded polystyrene >90%
+Blowing agent <10%
+Packaging components weight, kg/m2
+Thickness, mm 50 60 80 100 120 140 160 180 200
+Plastic Packaging 0.030 0.035 0.047 0.059 0.071 0.083 0.094 0.106 0.118
+Wood Pallet 0.007 0.008 0.011 0.013 0.016 0.018 0.021 0.024 0.026
+TOTAL 0.036 0.043 0.058 0.072 0.087 0.101 0.115 0.130 0.144
+Weight-% (versus the product) 2% 2% 2% 2% 2% 2% 2% 2% 2%
+6
+The polluter pays principle, the principle of modularity, and study exclusions (long￾term emissions, infrastructure processes, and staff travel) have been considered.
+Cutt-off rules:
+In the case that there is not enough information, the process energy and materials 
+representing less than 1% of the whole energy and mass used can be excluded (if 
+they do not cause significant impacts). The addition of all the inputs and outputs 
+excluded cannot be bigger than the 5% of the whole mass and energy used, as 
+well of the emissions to environment occurred
+Description of the data quality used:
+All the raw materials for the manufacture of the declared product, the necessary 
+energy, the water, the consumption, and the resulting emissions are considered in 
+the life cycle analysis of this material in its panel format. The production data of 
+the Bondeno factory, for the full year 2020, have been used. The allocations of 
+consumption, emissions and raw materials have been made based on physical 
+criteria of the mass of polystyrene.
+The Ecoinvent 3.6 and EuGeos' 15804+A2_IA v4.1 databases have been used to 
+choose the most representative processes, considering that the data is 
+representative of technological development, regionalized data and as current as 
+possible. These data have been treated in the OpenLCA 1.10.3 software for LCA 
+modeling and the calculation of environmental impact categories, complying with 
+the quality requirements established in the RCP.
+Modules declared, geographical scope, share of specific data (in GWP-GHG 
+indicator) and data variation:
+Phases and modules of life cycle taken into account 
+Production 
+phase Construction phase Use phase End of life phase
+Module 
+declared X X X X X X X X X X X X X X X
+Geography Italy Italy Global Global Global Global Global Global Global Global Global Global Global Global Global
+Specific 
+data used >90% GWP >90% GWP >90% GWP
+Variation -
+Products
+No 
+variability
+No 
+variability No variability
+Variation -
+Sites Only plant Only plant Only plant
+A1-A3 Production phase
+Description of the phase: 
+The production phase of extruded polystyrene products is divided into three 
+modules: A1, supply of raw materials; A2, transport and A3, manufacture.
+D Benefits and loads
+beyond the limits of the 
+system
+Module
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 Refurbishment
+B6 Energy use
+B7 Use
+of water
+C1 Deconstruction / 
+demolition
+C2 Transport
+C3 Waste treatment
+C4 Removal
+The addition of modules A1, A2 et A3 is an option provided by standard EN 
+15804+A2 and has been applied to this EPD.
+A1 Supply of raw materials
+This module considers the supply and processing of all raw materials and the 
+energies they produce prior to the manufacturing process. In particular, it covers 
+supply of raw materials for manufacturing Polyestyrene and blowing agent. In 
+addition to these raw materials, recycled materials (PS) are used in the process.
+A2 Transport to manufacturer
+Raw materials are transported to the manufacturing site. The modelling includes 
+road, river or rail transport (average values) for each of the raw materials.
+A3 Manufacturing
+Extruded polystyrene manufacture includes stages of mixing, extrusion and cooling
+(see diagram of manufacturing process). Furthermore, production of packaging is 
+considered during this phase. The Italian electric mix has been used
+System Diagram:
+A4-A5 Construction phase
+Description: 
+The construction phase is divided into two modules: A4, transport to the 
+construction site and A5, installation in the building.
+Description of the scenarios and supplementary technical information.
+A4 Transport to building site:
+This module includes transport from factory to site. Average value of Spain.
+7
+8
+The transport is calculated based on a scenario that includes the following 
+parameters:
+Parameter Value
+Type of fuel and consumption of the vehicle or 
+type of vehicle used for the transport for 
+example, long distance lorry, boat, etc.
+The vehicle runs on diesel, its emission standard is 
+classified as EURO5 and it falls under the truck 
+size class of 7.5 to 16 metric tons
+Average distance to site Lorry: 460 km 
+Use of capacity (including returning empty) 100 % volume capacity
+Density of transported product 18-72 m² per pallet and 22 pallets per lorry
+Density of product = 46 kg/m3
+Coefficient of use of volume capacity >1 (products compressed in the packaging)
+A5 Installation in the building: 
+This module includes the waste products created during manual installation of the 
+extruded polystyrene in the building, supplementary production required to 
+compensate losses and treatment of site waste. The scenarios used for the 
+quantity of waste generated during the installation and the treatment of the site 
+waste are as follows:
+Parameter Value
+Ancillary inputs for installation (specified by material) No ancillary inputs 
+Use of water No water used 
+Use of other resources No other resources 
+Quantitative description of the type of energy (regional 
+mix) and consumption during the installation process No energy required 
+Waste produced on the construction site prior to waste 
+treatment generated by installation of the product 
+(specified by type)
+2 % of extruded polystyrene
+Materials (specified by type) produced by waste 
+treatment on the construction site, for example 
+collection with a view to recycling, recovery of energy, 
+disposal (specified by channel) 
+All extruded polystyrene waste, its 
+packaging and waste deriving from 
+excess production for installation are 
+considered as disposed of in landfill 
+82-328 gr/UF
+Transport to landfill 15 km
+Direct emissions to atmosphere, soil and water No emissions to be considered
+B1-B7 Phase of use or exploitation (Excluding potential savings)
+Phase of use is divided into seven modules:
+• B1: Use or application of product installed
+• B2: Maintenance
+• B3: Repair
+• B4: Replacement
+• B5: Refurbishment
+• B6: Energy needs during exploitation phase
+• B7: Water needs during exploitation phase
+Description of the scenarios and supplementary technical information. 
+No technical operation is required during the useful phase until the end of service 
+life. Thus extruded polystyrene do not have any impact during this phase but 
+they permit potential energy savings.
+9
+C1-C4 End of life phase 
+Description: 
+This phase includes the different modules of the end of service life as follows: 
+C1, deconstruction, demolition; C2, transport to waste treatment; C3, waste 
+treatment with a view to their reuse, recovery and/or recycling; C4, disposal.
+Description of the scenarios and supplementary technical information.
+C1 Deconstruction, demolition:
+Deconstruction and /or dismantling of the insulation products is part of the 
+demolition work of an entire building. In our case the environmental impact is 
+considered to be very slight and can be ignored.
+C2 Transport to waste treatment site:
+The use of the model for transport is considered (see A4, transport to the 
+construction site) at a distance of 15 km.
+C3 Waste treatment with a view to reuse, recovery, and/or recycling:
+The product is considered for landfill without reuse, recovery and/or recycling.
+C4 Disposal:
+extruded polystyrene should be installed in a storage facility for non-inert and 
+non-hazardous waste 
+D Benefit and charge (refer to standard)
+There are no recycling benefits since 100% of the weight of the product and its 
+packaging is considered landfilled.
+5. Content information
+For the functional unit “1m² of extruded polystyrene insulation with a thickness of 
+50, 60, 80, 100, 120, 140, 160, 180, and 200 mm and thermal resistance of 1.50, 
+1.80, 2.30, 2.80, 3.55, 4.05, 4.60, 5.05, and 5.60 m2
+∙K/W respectively”.
+Estimated impact results are only relative statements that do not indicate impact 
+category endpoints, exceeding threshold values, safety margins, or risks.
+Parameter Value
+Collection procedure specified by type 2.300-9.200 kg of extruded polystyrene (collected with 
+mixed construction waste)
+Recovery system specified by type No reuse, no recycling, no energy recovery
+Disposal specified by type 2.300-9.200 kg of extruded polystyrene kept in storage 
+facility for non -inert and non-hazardous waste
+Hypotheses for creating scenarios (for 
+example transport) 100% Landfill
+10
+Results for 1m² of extruded polystyrene insulation with a thickness of 50 mm and thermal resistance of 1.50 m2
+∙K/W:
+Potential environmental impact – mandatory indicators according to EN 15804
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-fossil kg CO2 eq. 6.68E+00 2.27E-01 1.41E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 5.68E-03 0.00E+00 3.58E-01 0.00E+00
+GWP-biogenic kg CO2 eq. 3.20E-01 4.65E-04 6.40E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.01E-05 0.00E+00 2.72E-04 0.00E+00
+GWP-luluc kg CO2 eq. 2.63E-03 1.06E-04 5.31E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.25E-06 0.00E+00 2.62E-05 0.00E+00
+GWP-total kg CO2 eq. 7.01E+00 2.27E-01 1.47E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 5.70E-03 0.00E+00 3.58E-01 0.00E+00
+ODP kg CFC 11 eq. 2.51E-07 5.10E-08 5.19E-09 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.33E-09 0.00E+00 7.39E-09 0.00E+00
+AP mol H+ eq. 2.77E-02 9.01E-04 5.60E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.88E-05 0.00E+00 2.12E-04 0.00E+00
+EP-freshwater kg PO4
+3- eq. 3.17E-03 5.26E-05 6.36E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.14E-06 0.00E+00 1.14E-05 0.00E+00
+EP-freshwater kg P eq. 1.03E-03 1.71E-05 2.07E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.72E-07 0.00E+00 3.71E-06 0.00E+00
+EP-marine kg N eq. 8.66E-03 2.63E-04 2.06E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.92E-06 0.00E+00 1.61E-03 0.00E+00
+EP-terrestrial mol N eq. 5.52E-02 2.86E-03 1.12E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.08E-04 0.00E+00 7.80E-04 0.00E+00
+POCP kg NMVOC eq. 9.67E-02 8.61E-04 1.94E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.04E-05 0.00E+00 2.98E-04 0.00E+00
+ADP￾minerals&metals*
+kg Sb eq. 1.81E-05 9.92E-07 3.65E-07 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.91E-08 0.00E+00 7.94E-08 0.00E+00
+ADP-fossil* MJ 1.68E+01 2.91E-01 3.39E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.52E-03 0.00E+00 8.24E-02 0.00E+00
+WDP* m3 4.49E+00 1.84E-02 9.03E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.15E-04 0.00E+00 2.60E-02 0.00E+00
+Acronyms GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = 
+Acidification potential, Accumulated Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine = Eutrophication potential, fraction of nutrients reaching marine end 
+compartment; EP-terrestrial = Eutrophication potential, Accumulated Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil resources; ADP-fossil = Abiotic depletion 
+for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted water consumption
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are high or as there is limited experience with the indicator.
+D Benefits and loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 Refurbishment
+B6 Energy use
+B7 Use of water
+C1 Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+11
+Potential environmental impact – additional mandatory and voluntary indicators
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-GHG1 kg CO2 eq. 6.24E+00 2.25E-01 1.30E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 5.63E-03 0.00E+00 2.52E-01 0.00E+00
+Use of resources
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+PERE MJ 3.28E+00 4.26E-02 6.58E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.19E-04 0.00E+00 8.23E-03 0.00E+00
+PERM MJ 5.92E+00 1.45E-02 1.19E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.01E-04 0.00E+00 2.57E-03 0.00E+00
+PERT MJ 9.20E+00 5.71E-02 1.84E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.22E-03 0.00E+00 1.08E-02 0.00E+00
+PENRE MJ 2.85E+01 3.76E-01 5.72E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.32E-03 0.00E+00 9.64E-02 0.00E+00
+PENRM MJ. 1.07E+02 3.04E+00 2.16E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 7.88E-02 0.00E+00 5.02E-01 0.00E+00
+PENRT MJ 1.36E+02 3.42E+00 2.73E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.71E-02 0.00E+00 5.99E-01 0.00E+00
+SM kg 1.32E+00 4.16E-03 2.64E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.75E-05 0.00E+00 8.59E-04 0.00E+00
+RSF MJ 1.18E-01 1.27E-03 2.36E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.61E-05 0.00E+00 1.15E-04 0.00E+00
+NRSF MJ 1.08E-01 5.51E-03 2.17E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.06E-04 0.00E+00 1.70E-04 0.00E+00
+FW m3 1.19E-01 4.37E-04 2.39E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.88E-06 0.00E+00 6.29E-04 0.00E+00
+Acronyms PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable primary energy resources used as raw materials; PERT = Total use of renewable primary energy 
+resources; PENRE = Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non-renewable primary energy resources used as raw materials; PENRT = Total use 
+of non-renewable primary energy re-sources; SM = Use of secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh water
+1 The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus 
+almost equal to the GWP indicator originally defined in EN 15804:2012+A1:2013.
+D Benefits and 
+loads
+beyond the limits 
+of the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 
+Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of 
+water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+12
+Waste production and output flows
+Waste production
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Hazardous waste disposed kg 5.06E+00 8.91E-02 1.02E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.92E-03 0.00E+00 1.88E-02 0.00E+00
+Non-hazardous waste disposed kg 9.98E-01 1.42E-01 6.62E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.42E-03 0.00E+00 2.31E+00 0.00E+00
+Radioactive waste disposed kg 5.05E-03 7.57E-05 1.01E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.72E-06 0.00E+00 1.15E-05 0.00E+00
+Output flows
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Components for re-use kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Material for recycling kg 2.01E-01 3.52E-03 4.02E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 7.27E-05 0.00E+00 3.63E-04 0.00E+00
+Materials for energy 
+recovery
+kg 4.33E-03 9.20E-04 9.02E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.00E-05 0.00E+00 1.62E-04 0.00E+00
+Exported energy, 
+electricity
+MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Exported energy, thermal MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Information on biogenic carbon content
+Results per functional or declared unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO2.
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+13
+Results for 1m² of extruded polystyrene insulation with a thickness of 60 mm and thermal resistance of 1.80 m2
+∙K/W:
+Potential environmental impact – mandatory indicators according to EN 15804
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-fossil kg CO2 eq. 8.02E+00 2.72E-01 1.69E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.82E-03 0.00E+00 4.30E-01 0.00E+00
+GWP-biogenic kg CO2 eq. 3.84E-01 5.58E-04 7.68E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.21E-05 0.00E+00 3.26E-04 0.00E+00
+GWP-luluc kg CO2 eq. 3.15E-03 1.28E-04 6.38E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.70E-06 0.00E+00 3.15E-05 0.00E+00
+GWP-total kg CO2 eq. 8.41E+00 2.73E-01 1.77E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.83E-03 0.00E+00 4.30E-01 0.00E+00
+ODP kg CFC 11 eq. 3.01E-07 6.12E-08 6.23E-09 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.59E-09 0.00E+00 8.86E-09 0.00E+00
+AP mol H+ eq. 3.33E-02 1.08E-03 6.72E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.45E-05 0.00E+00 2.54E-04 0.00E+00
+EP-freshwater kg PO4
+3- eq. 3.80E-03 6.31E-05 7.63E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.37E-06 0.00E+00 1.37E-05 0.00E+00
+EP-freshwater kg P eq. 1.24E-03 2.06E-05 2.49E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.46E-07 0.00E+00 4.46E-06 0.00E+00
+EP-marine kg N eq. 1.04E-02 3.15E-04 2.47E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.19E-05 0.00E+00 1.94E-03 0.00E+00
+EP-terrestrial mol N eq. 6.62E-02 3.44E-03 1.35E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.30E-04 0.00E+00 9.36E-04 0.00E+00
+POCP kg NMVOC eq. 1.16E-01 1.03E-03 2.33E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.65E-05 0.00E+00 3.57E-04 0.00E+00
+ADP￾minerals&metals*
+kg Sb eq. 2.18E-05 1.19E-06 4.38E-07 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.30E-08 0.00E+00 9.53E-08 0.00E+00
+ADP-fossil* MJ 2.02E+01 3.50E-01 4.06E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 7.82E-03 0.00E+00 9.89E-02 0.00E+00
+WDP* m3 5.39E+00 2.20E-02 1.08E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.98E-04 0.00E+00 3.13E-02 0.00E+00
+Acronyms GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = 
+Acidification potential, Accumulated Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine = Eutrophication potential, fraction of nutrients reaching marine end 
+compartment; EP-terrestrial = Eutrophication potential, Accumulated Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil resources; ADP-fossil = Abiotic depletion 
+for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted water consumption
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are high or as there is limited experience with the indicator.
+D Benefits and loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 Refurbishment
+B6 Energy use
+B7 Use of water
+C1 Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+14
+Potential environmental impact – additional mandatory and voluntary indicators
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-GHG2 kg CO2 eq. 7.49E+00 2.70E-01 1.56E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.76E-03 0.00E+00 3.03E-01 0.00E+00
+Use of resources
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+PERE MJ 3.93E+00 5.11E-02 7.89E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.10E-03 0.00E+00 9.88E-03 0.00E+00
+PERM MJ 7.11E+00 1.74E-02 1.42E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.62E-04 0.00E+00 3.08E-03 0.00E+00
+PERT MJ 1.10E+01 6.85E-02 2.21E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.46E-03 0.00E+00 1.30E-02 0.00E+00
+PENRE MJ 3.42E+01 4.52E-01 6.87E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.98E-03 0.00E+00 1.16E-01 0.00E+00
+PENRM MJ. 1.29E+02 3.65E+00 2.59E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.46E-02 0.00E+00 6.03E-01 0.00E+00
+PENRT MJ 1.63E+02 4.10E+00 3.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.05E-01 0.00E+00 7.19E-01 0.00E+00
+SM kg 1.58E+00 4.99E-03 3.17E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.05E-04 0.00E+00 1.03E-03 0.00E+00
+RSF MJ 1.41E-01 1.52E-03 2.83E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.13E-05 0.00E+00 1.38E-04 0.00E+00
+NRSF MJ 1.30E-01 6.61E-03 2.61E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.27E-04 0.00E+00 2.03E-04 0.00E+00
+FW m3 1.42E-01 5.25E-04 2.86E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.19E-05 0.00E+00 7.55E-04 0.00E+00
+Acronyms PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable primary energy resources used as raw materials; PERT = Total use of renewable primary energy 
+resources; PENRE = Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non-renewable primary energy resources used as raw materials; PENRT = Total use 
+of non-renewable primary energy re-sources; SM = Use of secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh water
+2 The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus 
+almost equal to the GWP indicator originally defined in EN 15804:2012+A1:2013.
+D Benefits and 
+loads
+beyond the limits 
+of the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 
+Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of 
+water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+15
+Waste production and output flows
+Waste production
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Hazardous waste disposed kg 6.07E+00 1.07E-01 1.22E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.30E-03 0.00E+00 2.26E-02 0.00E+00
+Non-hazardous waste disposed kg 1.20E+00 1.70E-01 7.94E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 5.31E-03 0.00E+00 2.77E+00 0.00E+00
+Radioactive waste disposed kg 6.06E-03 9.09E-05 1.22E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.07E-06 0.00E+00 1.38E-05 0.00E+00
+Output flows
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Components for re-use kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Material for recycling kg 2.41E-01 4.22E-03 4.83E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.72E-05 0.00E+00 4.35E-04 0.00E+00
+Materials for energy 
+recovery
+kg 5.19E-03 1.10E-03 1.08E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.40E-05 0.00E+00 1.94E-04 0.00E+00
+Exported energy, 
+electricity
+MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Exported energy, thermal MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Information on biogenic carbon content
+Results per functional or declared unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO2.
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+16
+Results for 1m² of extruded polystyrene insulation with a thickness of 80 mm and thermal resistance of 2.30 m2
+∙K/W:
+Potential environmental impact – mandatory indicators according to EN 15804
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-fossil kg CO2 eq. 1.07E+01 3.63E-01 2.26E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.09E-03 0.00E+00 5.73E-01 0.00E+00
+GWP-biogenic kg CO2 eq. 5.12E-01 7.43E-04 1.02E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.61E-05 0.00E+00 4.34E-04 0.00E+00
+GWP-luluc kg CO2 eq. 4.21E-03 1.70E-04 8.50E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.60E-06 0.00E+00 4.20E-05 0.00E+00
+GWP-total kg CO2 eq. 1.12E+01 3.64E-01 2.36E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.11E-03 0.00E+00 5.74E-01 0.00E+00
+ODP kg CFC 11 eq. 4.02E-07 8.16E-08 8.31E-09 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.12E-09 0.00E+00 1.18E-08 0.00E+00
+AP mol H+ eq. 4.44E-02 1.44E-03 8.96E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.60E-05 0.00E+00 3.39E-04 0.00E+00
+EP-freshwater kg PO4
+3- eq. 5.07E-03 8.42E-05 1.02E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.83E-06 0.00E+00 1.82E-05 0.00E+00
+EP-freshwater kg P eq. 1.65E-03 2.74E-05 3.31E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 5.95E-07 0.00E+00 5.94E-06 0.00E+00
+EP-marine kg N eq. 1.39E-02 4.20E-04 3.29E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.59E-05 0.00E+00 2.58E-03 0.00E+00
+EP-terrestrial mol N eq. 8.83E-02 4.58E-03 1.79E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.73E-04 0.00E+00 1.25E-03 0.00E+00
+POCP kg NMVOC eq. 1.55E-01 1.38E-03 3.11E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.87E-05 0.00E+00 4.77E-04 0.00E+00
+ADP￾minerals&metals*
+kg Sb eq. 2.90E-05 1.59E-06 5.84E-07 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.06E-08 0.00E+00 1.27E-07 0.00E+00
+ADP-fossil* MJ 2.69E+01 4.66E-01 5.42E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.04E-02 0.00E+00 1.32E-01 0.00E+00
+WDP* m3 7.18E+00 2.94E-02 1.45E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.64E-04 0.00E+00 4.17E-02 0.00E+00
+Acronyms GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = 
+Acidification potential, Accumulated Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine = Eutrophication potential, fraction of nutrients reaching marine end 
+compartment; EP-terrestrial = Eutrophication potential, Accumulated Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil resources; ADP-fossil = Abiotic depletion 
+for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted water consumption
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are high or as there is limited experience with the indicator.
+D Benefits and loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 Refurbishment
+B6 Energy use
+B7 Use of water
+C1 Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+17
+Potential environmental impact – additional mandatory and voluntary indicators
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-GHG3 kg CO2 eq. 9.98E+00 3.60E-01 2.08E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.02E-03 0.00E+00 4.04E-01 0.00E+00
+Use of resources
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+PERE MJ 5.25E+00 6.82E-02 1.05E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.47E-03 0.00E+00 1.32E-02 0.00E+00
+PERM MJ 9.48E+00 2.32E-02 1.90E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.82E-04 0.00E+00 4.11E-03 0.00E+00
+PERT MJ 1.47E+01 9.14E-02 2.95E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.95E-03 0.00E+00 1.73E-02 0.00E+00
+PENRE MJ 4.56E+01 6.02E-01 9.16E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.33E-02 0.00E+00 1.54E-01 0.00E+00
+PENRM MJ. 1.72E+02 4.87E+00 3.45E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.26E-01 0.00E+00 8.04E-01 0.00E+00
+PENRT MJ 2.17E+02 5.47E+00 4.37E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.39E-01 0.00E+00 9.58E-01 0.00E+00
+SM kg 2.11E+00 6.65E-03 4.22E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.40E-04 0.00E+00 1.37E-03 0.00E+00
+RSF MJ 1.88E-01 2.03E-03 3.77E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.17E-05 0.00E+00 1.83E-04 0.00E+00
+NRSF MJ 1.74E-01 8.81E-03 3.48E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.69E-04 0.00E+00 2.71E-04 0.00E+00
+FW m3 1.90E-01 7.00E-04 3.82E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.58E-05 0.00E+00 1.01E-03 0.00E+00
+Acronyms PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable primary energy resources used as raw materials; PERT = Total use of renewable primary energy 
+resources; PENRE = Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non-renewable primary energy resources used as raw materials; PENRT = Total use 
+of non-renewable primary energy re-sources; SM = Use of secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh water
+3 The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus 
+almost equal to the GWP indicator originally defined in EN 15804:2012+A1:2013.
+D Benefits and 
+loads
+beyond the limits 
+of the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 
+Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of 
+water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+18
+Waste production and output flows
+Waste production
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Hazardous waste disposed kg 8.09E+00 1.43E-01 1.62E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.06E-03 0.00E+00 3.01E-02 0.00E+00
+Non-hazardous waste disposed kg 1.60E+00 2.27E-01 1.06E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 7.07E-03 0.00E+00 3.69E+00 0.00E+00
+Radioactive waste disposed kg 8.08E-03 1.21E-04 1.62E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.76E-06 0.00E+00 1.85E-05 0.00E+00
+Output flows
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Components for re-use kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Material for recycling kg 3.21E-01 5.63E-03 6.44E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.16E-04 0.00E+00 5.80E-04 0.00E+00
+Materials for energy 
+recovery
+kg 6.92E-03 1.47E-03 1.44E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.20E-05 0.00E+00 2.59E-04 0.00E+00
+Exported energy, 
+electricity
+MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Exported energy, thermal MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Information on biogenic carbon content
+Results per functional or declared unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO2.
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+19
+Results for 1m² of extruded polystyrene insulation with a thickness of 100 mm and thermal resistance of 2.80 m2
+∙K/W:
+Potential environmental impact – mandatory indicators according to EN 15804
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-fossil kg CO2 eq. 1.34E+01 4.53E-01 2.82E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.14E-02 0.00E+00 7.16E-01 0.00E+00
+GWP-biogenic kg CO2 eq. 6.40E-01 9.29E-04 1.28E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.01E-05 0.00E+00 5.43E-04 0.00E+00
+GWP-luluc kg CO2 eq. 5.26E-03 2.13E-04 1.06E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.51E-06 0.00E+00 5.25E-05 0.00E+00
+GWP-total kg CO2 eq. 1.40E+01 4.55E-01 2.95E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.14E-02 0.00E+00 7.17E-01 0.00E+00
+ODP kg CFC 11 eq. 5.02E-07 1.02E-07 1.04E-08 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.65E-09 0.00E+00 1.48E-08 0.00E+00
+AP mol H+ eq. 5.55E-02 1.80E-03 1.12E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 5.76E-05 0.00E+00 4.24E-04 0.00E+00
+EP-freshwater kg PO4
+3- eq. 6.33E-03 1.05E-04 1.27E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.28E-06 0.00E+00 2.28E-05 0.00E+00
+EP-freshwater kg P eq. 2.06E-03 3.43E-05 4.14E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 7.44E-07 0.00E+00 7.43E-06 0.00E+00
+EP-marine kg N eq. 1.73E-02 5.25E-04 4.11E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.98E-05 0.00E+00 3.23E-03 0.00E+00
+EP-terrestrial mol N eq. 1.10E-01 5.73E-03 2.24E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.17E-04 0.00E+00 1.56E-03 0.00E+00
+POCP kg NMVOC eq. 1.93E-01 1.72E-03 3.88E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.08E-05 0.00E+00 5.96E-04 0.00E+00
+ADP￾minerals&metals*
+kg Sb eq. 3.63E-05 1.98E-06 7.29E-07 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.83E-08 0.00E+00 1.59E-07 0.00E+00
+ADP-fossil* MJ 3.37E+01 5.83E-01 6.77E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.30E-02 0.00E+00 1.65E-01 0.00E+00
+WDP* m3 8.98E+00 3.67E-02 1.81E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.29E-04 0.00E+00 5.21E-02 0.00E+00
+Acronyms GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = 
+Acidification potential, Accumulated Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine = Eutrophication potential, fraction of nutrients reaching marine end 
+compartment; EP-terrestrial = Eutrophication potential, Accumulated Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil resources; ADP-fossil = Abiotic depletion 
+for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted water consumption
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are high or as there is limited experience with the indicator.
+D Benefits and loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 Refurbishment
+B6 Energy use
+B7 Use of water
+C1 Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+20
+Potential environmental impact – additional mandatory and voluntary indicators
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-GHG4 kg CO2 eq. 1.25E+01 4.49E-01 2.60E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.13E-02 0.00E+00 5.05E-01 0.00E+00
+*Disclaimers shall be added, if required by EN 15804.
+Use of resources
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+PERE MJ 6.56E+00 8.52E-02 1.32E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.84E-03 0.00E+00 1.65E-02 0.00E+00
+PERM MJ 1.18E+01 2.90E-02 2.37E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.03E-04 0.00E+00 5.14E-03 0.00E+00
+PERT MJ 1.84E+01 1.14E-01 3.69E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.44E-03 0.00E+00 2.16E-02 0.00E+00
+PENRE MJ 5.70E+01 7.53E-01 1.14E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.66E-02 0.00E+00 1.93E-01 0.00E+00
+PENRM MJ. 2.15E+02 6.09E+00 4.31E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.58E-01 0.00E+00 1.00E+00 0.00E+00
+PENRT MJ 2.72E+02 6.84E+00 5.46E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.74E-01 0.00E+00 1.20E+00 0.00E+00
+SM kg 2.64E+00 8.31E-03 5.28E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.75E-04 0.00E+00 1.72E-03 0.00E+00
+RSF MJ 2.35E-01 2.54E-03 4.71E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 5.21E-05 0.00E+00 2.29E-04 0.00E+00
+NRSF MJ 2.17E-01 1.10E-02 4.35E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.11E-04 0.00E+00 3.39E-04 0.00E+00
+FW m3 2.37E-01 8.75E-04 4.77E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.98E-05 0.00E+00 1.26E-03 0.00E+00
+Acronyms PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable primary energy resources used as raw materials; PERT = Total use of renewable primary energy 
+resources; PENRE = Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non-renewable primary energy resources used as raw materials; PENRT = Total use 
+of non-renewable primary energy re-sources; SM = Use of secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh water
+4 The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus 
+almost equal to the GWP indicator originally defined in EN 15804:2012+A1:2013.
+D Benefits and 
+loads
+beyond the limits 
+of the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 
+Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of 
+water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+21
+Waste production and output flows
+Waste production
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Hazardous waste disposed kg 1.01E+01 1.78E-01 2.03E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.83E-03 0.00E+00 3.76E-02 0.00E+00
+Non-hazardous waste disposed kg 2.00E+00 2.84E-01 1.32E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.84E-03 0.00E+00 4.61E+00 0.00E+00
+Radioactive waste disposed kg 1.01E-02 1.51E-04 2.03E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.45E-06 0.00E+00 2.31E-05 0.00E+00
+Output flows
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Components for re-use kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Material for recycling kg 4.02E-01 7.04E-03 8.05E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.45E-04 0.00E+00 7.25E-04 0.00E+00
+Materials for energy 
+recovery
+kg 8.65E-03 1.84E-03 1.80E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.00E-05 0.00E+00 3.24E-04 0.00E+00
+Exported energy, 
+electricity
+MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Exported energy, thermal MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Information on biogenic carbon content
+Results per functional or declared unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO2.
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+22
+Results for 1m² of extruded polystyrene insulation with a thickness of 120 mm and thermal resistance of 3.55 m2
+∙K/W:
+Potential environmental impact – mandatory indicators according to EN 15804
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-fossil kg CO2 eq. 1.60E+01 5.44E-01 3.38E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.36E-02 0.00E+00 8.60E-01 0.00E+00
+GWP-biogenic kg CO2 eq. 7.68E-01 1.12E-03 1.54E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.41E-05 0.00E+00 6.52E-04 0.00E+00
+GWP-luluc kg CO2 eq. 6.31E-03 2.56E-04 1.28E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 5.41E-06 0.00E+00 6.29E-05 0.00E+00
+GWP-total kg CO2 eq. 1.68E+01 5.45E-01 3.54E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.37E-02 0.00E+00 8.60E-01 0.00E+00
+ODP kg CFC 11 eq. 6.02E-07 1.22E-07 1.25E-08 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.18E-09 0.00E+00 1.77E-08 0.00E+00
+AP mol H+ eq. 6.66E-02 2.16E-03 1.34E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.91E-05 0.00E+00 5.09E-04 0.00E+00
+EP-freshwater kg PO4
+3- eq. 7.60E-03 1.26E-04 1.53E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.74E-06 0.00E+00 2.74E-05 0.00E+00
+EP-freshwater kg P eq. 2.48E-03 4.11E-05 4.97E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.92E-07 0.00E+00 8.92E-06 0.00E+00
+EP-marine kg N eq. 2.08E-02 6.30E-04 4.93E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.38E-05 0.00E+00 3.87E-03 0.00E+00
+EP-terrestrial mol N eq. 1.32E-01 6.88E-03 2.69E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.60E-04 0.00E+00 1.87E-03 0.00E+00
+POCP kg NMVOC eq. 2.32E-01 2.07E-03 4.66E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 7.30E-05 0.00E+00 7.15E-04 0.00E+00
+ADP￾minerals&metals*
+kg Sb eq. 4.35E-05 2.38E-06 8.75E-07 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.59E-08 0.00E+00 1.91E-07 0.00E+00
+ADP-fossil* MJ 4.04E+01 6.99E-01 8.13E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.56E-02 0.00E+00 1.98E-01 0.00E+00
+WDP* m3 1.08E+01 4.41E-02 2.17E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.95E-04 0.00E+00 6.25E-02 0.00E+00
+Acronyms GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = 
+Acidification potential, Accumulated Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine = Eutrophication potential, fraction of nutrients reaching marine end 
+compartment; EP-terrestrial = Eutrophication potential, Accumulated Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil resources; ADP-fossil = Abiotic depletion 
+for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted water consumption
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are high or as there is limited experience with the indicator.
+D Benefits and loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 Refurbishment
+B6 Energy use
+B7 Use of water
+C1 Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+23
+Potential environmental impact – additional mandatory and voluntary indicators
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-GHG5 kg CO2 eq. 1.50E+01 5.39E-01 3.12E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.35E-02 0.00E+00 6.06E-01 0.00E+00
+Use of resources
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+PERE MJ 7.87E+00 1.02E-01 1.58E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.21E-03 0.00E+00 1.98E-02 0.00E+00
+PERM MJ 1.42E+01 3.48E-02 2.85E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 7.23E-04 0.00E+00 6.17E-03 0.00E+00
+PERT MJ 2.21E+01 1.37E-01 4.42E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.93E-03 0.00E+00 2.59E-02 0.00E+00
+PENRE MJ 6.84E+01 9.03E-01 1.37E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.00E-02 0.00E+00 2.31E-01 0.00E+00
+PENRM MJ. 2.57E+02 7.30E+00 5.18E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.89E-01 0.00E+00 1.21E+00 0.00E+00
+PENRT MJ 3.26E+02 8.21E+00 6.55E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.09E-01 0.00E+00 1.44E+00 0.00E+00
+SM kg 3.16E+00 9.98E-03 6.33E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.10E-04 0.00E+00 2.06E-03 0.00E+00
+RSF MJ 2.82E-01 3.04E-03 5.66E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.26E-05 0.00E+00 2.75E-04 0.00E+00
+NRSF MJ 2.60E-01 1.32E-02 5.22E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.54E-04 0.00E+00 4.07E-04 0.00E+00
+FW m3 2.85E-01 1.05E-03 5.72E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.37E-05 0.00E+00 1.51E-03 0.00E+00
+Acronyms PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable primary energy resources used as raw materials; PERT = Total use of renewable primary energy 
+resources; PENRE = Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non-renewable primary energy resources used as raw materials; PENRT = Total use 
+of non-renewable primary energy re-sources; SM = Use of secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh water
+5 The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus 
+almost equal to the GWP indicator originally defined in EN 15804:2012+A1:2013.
+D Benefits and 
+loads
+beyond the limits 
+of the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 
+Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of 
+water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+24
+Waste production and output flows
+Waste production
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Hazardous waste disposed kg 1.21E+01 2.14E-01 2.44E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.60E-03 0.00E+00 4.52E-02 0.00E+00
+Non-hazardous waste disposed kg 2.40E+00 3.40E-01 1.59E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.06E-02 0.00E+00 5.53E+00 0.00E+00
+Radioactive waste disposed kg 1.21E-02 1.82E-04 2.43E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.14E-06 0.00E+00 2.77E-05 0.00E+00
+Output flows
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Components for re-use kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Material for recycling kg 4.82E-01 8.45E-03 9.66E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.74E-04 0.00E+00 8.70E-04 0.00E+00
+Materials for energy 
+recovery
+kg 1.04E-02 2.21E-03 2.16E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.80E-05 0.00E+00 3.88E-04 0.00E+00
+Exported energy, 
+electricity
+MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Exported energy, thermal MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Information on biogenic carbon content
+Results per functional or declared unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO2.
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+25
+Results for 1m² of extruded polystyrene insulation with a thickness of 140 mm and thermal resistance of 4.05 m2
+∙K/W:
+Potential environmental impact – mandatory indicators according to EN 15804
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-fossil kg CO2 eq. 1.87E+01 6.35E-01 3.95E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.59E-02 0.00E+00 1.00E+00 0.00E+00
+GWP-biogenic kg CO2 eq. 8.96E-01 1.30E-03 1.79E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.82E-05 0.00E+00 7.60E-04 0.00E+00
+GWP-luluc kg CO2 eq. 7.36E-03 2.98E-04 1.49E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.31E-06 0.00E+00 7.34E-05 0.00E+00
+GWP-total kg CO2 eq. 1.96E+01 6.36E-01 4.13E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.59E-02 0.00E+00 1.00E+00 0.00E+00
+ODP kg CFC 11 eq. 7.03E-07 1.43E-07 1.45E-08 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.71E-09 0.00E+00 2.07E-08 0.00E+00
+AP mol H+ eq. 7.77E-02 2.52E-03 1.57E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.06E-05 0.00E+00 5.93E-04 0.00E+00
+EP-freshwater kg PO4
+3- eq. 8.87E-03 1.47E-04 1.78E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.20E-06 0.00E+00 3.19E-05 0.00E+00
+EP-freshwater kg P eq. 2.89E-03 4.80E-05 5.80E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.04E-06 0.00E+00 1.04E-05 0.00E+00
+EP-marine kg N eq. 2.42E-02 7.36E-04 5.76E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.78E-05 0.00E+00 4.52E-03 0.00E+00
+EP-terrestrial mol N eq. 1.54E-01 8.02E-03 3.14E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.03E-04 0.00E+00 2.18E-03 0.00E+00
+POCP kg NMVOC eq. 2.71E-01 2.41E-03 5.44E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.52E-05 0.00E+00 8.34E-04 0.00E+00
+ADP￾minerals&metals*
+kg Sb eq. 5.08E-05 2.78E-06 1.02E-06 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 5.36E-08 0.00E+00 2.22E-07 0.00E+00
+ADP-fossil* MJ 4.72E+01 8.16E-01 9.48E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.82E-02 0.00E+00 2.31E-01 0.00E+00
+WDP* m3 1.26E+01 5.14E-02 2.53E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.16E-03 0.00E+00 7.29E-02 0.00E+00
+Acronyms GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = 
+Acidification potential, Accumulated Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine = Eutrophication potential, fraction of nutrients reaching marine end 
+compartment; EP-terrestrial = Eutrophication potential, Accumulated Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil resources; ADP-fossil = Abiotic depletion 
+for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted water consumption
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are high or as there is limited experience with the indicator.
+D Benefits and loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 Refurbishment
+B6 Energy use
+B7 Use of water
+C1 Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+26
+Potential environmental impact – additional mandatory and voluntary indicators
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-GHG6 kg CO2 eq. 1.75E+01 6.29E-01 3.64E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.58E-02 0.00E+00 7.07E-01 0.00E+00
+Use of resources
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+PERE MJ 9.18E+00 1.19E-01 1.84E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.57E-03 0.00E+00 2.30E-02 0.00E+00
+PERM MJ 1.66E+01 4.06E-02 3.32E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.44E-04 0.00E+00 7.19E-03 0.00E+00
+PERT MJ 2.58E+01 1.60E-01 5.16E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.42E-03 0.00E+00 3.02E-02 0.00E+00
+PENRE MJ 7.99E+01 1.05E+00 1.60E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.33E-02 0.00E+00 2.70E-01 0.00E+00
+PENRM MJ. 3.00E+02 8.52E+00 6.04E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.21E-01 0.00E+00 1.41E+00 0.00E+00
+PENRT MJ 3.80E+02 9.58E+00 7.64E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.44E-01 0.00E+00 1.68E+00 0.00E+00
+SM kg 3.69E+00 1.16E-02 7.39E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.45E-04 0.00E+00 2.41E-03 0.00E+00
+RSF MJ 3.29E-01 3.55E-03 6.60E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 7.30E-05 0.00E+00 3.21E-04 0.00E+00
+NRSF MJ 3.04E-01 1.54E-02 6.09E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.96E-04 0.00E+00 4.75E-04 0.00E+00
+FW m3 3.32E-01 1.22E-03 6.68E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.77E-05 0.00E+00 1.76E-03 0.00E+00
+Acronyms PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable primary energy resources used as raw materials; PERT = Total use of renewable primary energy 
+resources; PENRE = Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non-renewable primary energy resources used as raw materials; PENRT = Total use 
+of non-renewable primary energy re-sources; SM = Use of secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh water
+6 The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus 
+almost equal to the GWP indicator originally defined in EN 15804:2012+A1:2013.
+D Benefits and 
+loads
+beyond the limits 
+of the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 
+Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of 
+water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+27
+Waste production and output flows
+Waste production
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Hazardous waste disposed kg 1.42E+01 2.49E-01 2.84E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 5.36E-03 0.00E+00 5.27E-02 0.00E+00
+Non-hazardous waste disposed kg 2.79E+00 3.97E-01 1.85E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.24E-02 0.00E+00 6.45E+00 0.00E+00
+Radioactive waste disposed kg 1.41E-02 2.12E-04 2.84E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.83E-06 0.00E+00 3.23E-05 0.00E+00
+Output flows
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Components for re-use kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Material for recycling kg 5.62E-01 9.86E-03 1.13E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.04E-04 0.00E+00 1.02E-03 0.00E+00
+Materials for energy 
+recovery
+kg 1.21E-02 2.58E-03 2.53E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 5.60E-05 0.00E+00 4.53E-04 0.00E+00
+Exported energy, 
+electricity
+MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Exported energy, thermal MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Information on biogenic carbon content
+Results per functional or declared unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO2.
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+28
+Results for 1m² of extruded polystyrene insulation with a thickness of 160 mm and thermal resistance of 4.60 m2
+∙K/W:
+Potential environmental impact – mandatory indicators according to EN 15804
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-fossil kg CO2 eq. 2.14E+01 7.25E-01 4.51E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.82E-02 0.00E+00 1.15E+00 0.00E+00
+GWP-biogenic kg CO2 eq. 1.02E+00 1.49E-03 2.05E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.22E-05 0.00E+00 8.69E-04 0.00E+00
+GWP￾luluc
+kg CO2 eq. 8.41E-03 3.41E-04 1.70E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 7.21E-06 0.00E+00 8.39E-05 0.00E+00
+GWP￾total
+kg CO2 eq. 2.24E+01 7.27E-01 4.72E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.82E-02 0.00E+00 1.15E+00 0.00E+00
+ODP kg CFC 11 eq. 8.03E-07 1.63E-07 1.66E-08 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.24E-09 0.00E+00 2.36E-08 0.00E+00
+AP mol H+ eq. 8.88E-02 2.88E-03 1.79E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.21E-05 0.00E+00 6.78E-04 0.00E+00
+EP-freshwater kg PO4
+3- eq. 1.01E-02 1.68E-04 2.03E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.65E-06 0.00E+00 3.65E-05 0.00E+00
+EP-freshwater kg P eq. 3.30E-03 5.48E-05 6.63E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.19E-06 0.00E+00 1.19E-05 0.00E+00
+EP￾marine
+kg N eq. 2.77E-02 8.41E-04 6.58E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.17E-05 0.00E+00 5.16E-03 0.00E+00
+EP-terrestrial mol N eq. 1.77E-01 9.17E-03 3.59E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.47E-04 0.00E+00 2.50E-03 0.00E+00
+POCP kg NMVOC eq. 3.10E-01 2.76E-03 6.21E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.73E-05 0.00E+00 9.53E-04 0.00E+00
+ADP￾minerals&metals*
+kg Sb eq. 5.80E-05 3.17E-06 1.17E-06 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.12E-08 0.00E+00 2.54E-07 0.00E+00
+ADP-fossil* MJ 5.39E+01 9.32E-01 1.08E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.09E-02 0.00E+00 2.64E-01 0.00E+00
+WDP* m3 1.44E+01 5.88E-02 2.89E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.33E-03 0.00E+00 8.34E-02 0.00E+00
+Acronyms GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = 
+Acidification potential, Accumulated Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine = Eutrophication potential, fraction of nutrients reaching marine end 
+compartment; EP-terrestrial = Eutrophication potential, Accumulated Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil resources; ADP-fossil = Abiotic depletion 
+for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted water consumption
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are high or as there is limited experience with the indicator.
+D Benefits and loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 Refurbishment
+B6 Energy use
+B7 Use of water
+C1 Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+29
+Potential environmental impact – additional mandatory and voluntary indicators
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-GHG7 kg CO2 eq. 2.00E+01 7.19E-01 4.16E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.80E-02 0.00E+00 8.08E-01 0.00E+00
+Use of resources
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+PERE MJ 1.05E+01 1.36E-01 2.10E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.94E-03 0.00E+00 2.63E-02 0.00E+00
+PERM MJ 1.90E+01 4.64E-02 3.79E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.65E-04 0.00E+00 8.22E-03 0.00E+00
+PERT MJ 2.95E+01 1.83E-01 5.90E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.90E-03 0.00E+00 3.46E-02 0.00E+00
+PENRE MJ 9.13E+01 1.20E+00 1.83E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.66E-02 0.00E+00 3.08E-01 0.00E+00
+PENRM MJ. 3.43E+02 9.74E+00 6.90E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.52E-01 0.00E+00 1.61E+00 0.00E+00
+PENRT MJ 4.35E+02 1.09E+01 8.73E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.79E-01 0.00E+00 1.92E+00 0.00E+00
+SM kg 4.22E+00 1.33E-02 8.44E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.80E-04 0.00E+00 2.75E-03 0.00E+00
+RSF MJ 3.77E-01 4.06E-03 7.54E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.34E-05 0.00E+00 3.67E-04 0.00E+00
+NRSF MJ 3.47E-01 1.76E-02 6.96E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.38E-04 0.00E+00 5.42E-04 0.00E+00
+FW m3 3.80E-01 1.40E-03 7.63E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.16E-05 0.00E+00 2.01E-03 0.00E+00
+Acronyms PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable primary energy resources used as raw materials; PERT = Total use of renewable primary energy 
+resources; PENRE = Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non-renewable primary energy resources used as raw materials; PENRT = Total use 
+of non-renewable primary energy re-sources; SM = Use of secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh water
+7 The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus 
+almost equal to the GWP indicator originally defined in EN 15804:2012+A1:2013.
+D Benefits and 
+loads
+beyond the limits 
+of the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 
+Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of 
+water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+30
+Waste production and output flows
+Waste production
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Hazardous waste disposed kg 1.62E+01 2.85E-01 3.25E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.13E-03 0.00E+00 6.02E-02 0.00E+00
+Non-hazardous waste disposed kg 3.19E+00 4.54E-01 2.12E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.41E-02 0.00E+00 7.38E+00 0.00E+00
+Radioactive waste disposed kg 1.62E-02 2.42E-04 3.24E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 5.52E-06 0.00E+00 3.69E-05 0.00E+00
+Output flows
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Components for re-use kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Material for recycling kg 6.43E-01 1.13E-02 1.29E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.33E-04 0.00E+00 1.16E-03 0.00E+00
+Materials for energy 
+recovery
+kg 1.38E-02 2.94E-03 2.89E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.40E-05 0.00E+00 5.18E-04 0.00E+00
+Exported energy, 
+electricity
+MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Exported energy, thermal MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Information on biogenic carbon content
+Results per functional or declared unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO2.
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+31
+Results for 1m² of extruded polystyrene insulation with a thickness of 180 mm and thermal resistance of 5.05 m2
+∙K/W:
+Potential environmental impact – mandatory indicators according to EN 15804
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-fossil kg CO2 eq. 2.41E+01 8.16E-01 5.07E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.05E-02 0.00E+00 1.29E+00 0.00E+00
+GWP-biogenic kg CO2 eq. 1.15E+00 1.67E-03 2.31E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.62E-05 0.00E+00 9.77E-04 0.00E+00
+GWP-luluc kg CO2 eq. 9.46E-03 3.83E-04 1.91E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.11E-06 0.00E+00 9.44E-05 0.00E+00
+GWP-total kg CO2 eq. 2.52E+01 8.18E-01 5.31E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.05E-02 0.00E+00 1.29E+00 0.00E+00
+ODP kg CFC 11 eq. 9.04E-07 1.84E-07 1.87E-08 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.77E-09 0.00E+00 2.66E-08 0.00E+00
+AP mol H+ eq. 9.99E-02 3.24E-03 2.02E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.04E-04 0.00E+00 7.63E-04 0.00E+00
+EP-freshwater kg PO4
+3- eq. 1.14E-02 1.89E-04 2.29E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.11E-06 0.00E+00 4.11E-05 0.00E+00
+EP-freshwater kg P eq. 3.71E-03 6.17E-05 7.46E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.34E-06 0.00E+00 1.34E-05 0.00E+00
+EP-marine kg N eq. 3.12E-02 9.46E-04 7.40E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.57E-05 0.00E+00 5.81E-03 0.00E+00
+EP-terrestrial mol N eq. 1.99E-01 1.03E-02 4.04E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.90E-04 0.00E+00 2.81E-03 0.00E+00
+POCP kg NMVOC eq. 3.48E-01 3.10E-03 6.99E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.10E-04 0.00E+00 1.07E-03 0.00E+00
+ADP￾minerals&metals*
+kg Sb eq. 6.53E-05 3.57E-06 1.31E-06 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.89E-08 0.00E+00 2.86E-07 0.00E+00
+ADP-fossil* MJ 6.06E+01 1.05E+00 1.22E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.35E-02 0.00E+00 2.97E-01 0.00E+00
+WDP* m3 1.62E+01 6.61E-02 3.25E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.49E-03 0.00E+00 9.38E-02 0.00E+00
+Acronyms GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = 
+Acidification potential, Accumulated Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine = Eutrophication potential, fraction of nutrients reaching marine end 
+compartment; EP-terrestrial = Eutrophication potential, Accumulated Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil resources; ADP-fossil = Abiotic depletion 
+for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted water consumption
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are high or as there is limited experience with the indicator.
+D Benefits and loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 Refurbishment
+B6 Energy use
+B7 Use of water
+C1 Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+32
+Potential environmental impact – additional mandatory and voluntary indicators
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-GHG8 kg CO2 eq. 2.25E+01 8.09E-01 4.68E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.03E-02 0.00E+00 9.08E-01 0.00E+00
+Use of resources
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+PERE MJ 1.18E+01 1.53E-01 2.37E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.31E-03 0.00E+00 2.96E-02 0.00E+00
+PERM MJ 2.13E+01 5.21E-02 4.27E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.09E-03 0.00E+00 9.25E-03 0.00E+00
+PERT MJ 3.31E+01 2.06E-01 6.64E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.39E-03 0.00E+00 3.89E-02 0.00E+00
+PENRE MJ 1.03E+02 1.35E+00 2.06E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.00E-02 0.00E+00 3.47E-01 0.00E+00
+PENRM MJ. 3.86E+02 1.10E+01 7.76E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.84E-01 0.00E+00 1.81E+00 0.00E+00
+PENRT MJ 4.89E+02 1.23E+01 9.83E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.14E-01 0.00E+00 2.16E+00 0.00E+00
+SM kg 4.75E+00 1.50E-02 9.50E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.15E-04 0.00E+00 3.09E-03 0.00E+00
+RSF MJ 4.24E-01 4.57E-03 8.48E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.38E-05 0.00E+00 4.13E-04 0.00E+00
+NRSF MJ 3.90E-01 1.98E-02 7.83E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.81E-04 0.00E+00 6.10E-04 0.00E+00
+FW m3 4.27E-01 1.57E-03 8.59E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.56E-05 0.00E+00 2.27E-03 0.00E+00
+Acronyms PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable primary energy resources used as raw materials; PERT = Total use of renewable primary energy 
+resources; PENRE = Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non-renewable primary energy resources used as raw materials; PENRT = Total use 
+of non-renewable primary energy re-sources; SM = Use of secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh water
+8 The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus 
+almost equal to the GWP indicator originally defined in EN 15804:2012+A1:2013.
+D Benefits and 
+loads
+beyond the limits 
+of the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 
+Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of 
+water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+33
+Waste production and output flows
+Waste production
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Hazardous waste disposed kg 1.82E+01 3.21E-01 3.66E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.90E-03 0.00E+00 6.77E-02 0.00E+00
+Non-hazardous waste disposed kg 3.59E+00 5.10E-01 2.38E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.59E-02 0.00E+00 8.30E+00 0.00E+00
+Radioactive waste disposed kg 1.82E-02 2.73E-04 3.65E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.21E-06 0.00E+00 4.15E-05 0.00E+00
+Output flows
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Components for re-use kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Material for recycling kg 7.23E-01 1.27E-02 1.45E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.62E-04 0.00E+00 1.31E-03 0.00E+00
+Materials for energy 
+recovery
+kg 1.56E-02 3.31E-03 3.25E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 7.20E-05 0.00E+00 5.83E-04 0.00E+00
+Exported energy, 
+electricity
+MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Exported energy, thermal MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Information on biogenic carbon content
+Results per functional or declared unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO2.
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+34
+Results for 1m² of extruded polystyrene insulation with a thickness of 200 mm and thermal resistance of 5.60 m2
+∙K/W:
+Potential environmental impact – mandatory indicators according to EN 15804
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-fossil kg CO2 eq. 2.67E+01 9.07E-01 5.64E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.27E-02 0.00E+00 1.43E+00 0.00E+00
+GWP-biogenic kg CO2 eq. 1.28E+00 1.86E-03 2.56E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.02E-05 0.00E+00 1.09E-03 0.00E+00
+GWP-luluc kg CO2 eq. 1.05E-02 4.26E-04 2.13E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.01E-06 0.00E+00 1.05E-04 0.00E+00
+GWP-total kg CO2 eq. 2.80E+01 9.09E-01 5.90E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.28E-02 0.00E+00 1.43E+00 0.00E+00
+ODP kg CFC 11 eq. 1.00E-06 2.04E-07 2.08E-08 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 5.30E-09 0.00E+00 2.95E-08 0.00E+00
+AP mol H+ eq. 1.11E-01 3.60E-03 2.24E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.15E-04 0.00E+00 8.48E-04 0.00E+00
+EP-freshwater kg PO4
+3- eq. 1.27E-02 2.10E-04 2.54E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.57E-06 0.00E+00 4.56E-05 0.00E+00
+EP-freshwater kg P eq. 4.13E-03 6.85E-05 8.28E-05 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.49E-06 0.00E+00 1.49E-05 0.00E+00
+EP-marine kg N eq. 3.46E-02 1.05E-03 8.22E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.97E-05 0.00E+00 6.45E-03 0.00E+00
+EP-terrestrial mol N eq. 2.21E-01 1.15E-02 4.49E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.34E-04 0.00E+00 3.12E-03 0.00E+00
+POCP kg NMVOC eq. 3.87E-01 3.44E-03 7.76E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.22E-04 0.00E+00 1.19E-03 0.00E+00
+ADP￾minerals&metals*
+kg Sb eq. 7.25E-05 3.97E-06 1.46E-06 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 7.66E-08 0.00E+00 3.18E-07 0.00E+00
+ADP-fossil* MJ 6.74E+01 1.17E+00 1.35E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.61E-02 0.00E+00 3.30E-01 0.00E+00
+WDP* m3 1.80E+01 7.35E-02 3.61E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.66E-03 0.00E+00 1.04E-01 0.00E+00
+Acronyms GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = 
+Acidification potential, Accumulated Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine = Eutrophication potential, fraction of nutrients reaching marine end 
+compartment; EP-terrestrial = Eutrophication potential, Accumulated Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil resources; ADP-fossil = Abiotic depletion 
+for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted water consumption
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are high or as there is limited experience with the indicator.
+D Benefits and loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 Refurbishment
+B6 Energy use
+B7 Use of water
+C1 Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+35
+Potential environmental impact – additional mandatory and voluntary indicators
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+GWP-GHG9 kg CO2 eq. 2.50E+01 8.99E-01 5.20E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.25E-02 0.00E+00 1.01E+00 0.00E+00
+Use of resources
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+PERE MJ 1.31E+01 1.70E-01 2.63E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.68E-03 0.00E+00 3.29E-02 0.00E+00
+PERM MJ 2.37E+01 5.79E-02 4.74E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.21E-03 0.00E+00 1.03E-02 0.00E+00
+PERT MJ 3.68E+01 2.28E-01 7.37E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.88E-03 0.00E+00 4.32E-02 0.00E+00
+PENRE MJ 1.14E+02 1.51E+00 2.29E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.33E-02 0.00E+00 3.86E-01 0.00E+00
+PENRM MJ. 4.29E+02 1.22E+01 8.63E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.15E-01 0.00E+00 2.01E+00 0.00E+00
+PENRT MJ 5.43E+02 1.37E+01 1.09E+01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.49E-01 0.00E+00 2.40E+00 0.00E+00
+SM kg 5.27E+00 1.66E-02 1.06E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.50E-04 0.00E+00 3.44E-03 0.00E+00
+RSF MJ 4.71E-01 5.07E-03 9.43E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.04E-04 0.00E+00 4.59E-04 0.00E+00
+NRSF MJ 4.34E-01 2.20E-02 8.70E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 4.23E-04 0.00E+00 6.78E-04 0.00E+00
+FW m3 4.74E-01 1.75E-03 9.54E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 3.95E-05 0.00E+00 2.52E-03 0.00E+00
+Acronyms PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable primary energy resources used as raw materials; PERT = Total use of renewable primary energy 
+resources; PENRE = Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non-renewable primary energy resources used as raw materials; PENRT = Total use 
+of non-renewable primary energy re-sources; SM = Use of secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh water
+9 The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus 
+almost equal to the GWP indicator originally defined in EN 15804:2012+A1:2013.
+D Benefits and 
+loads
+beyond the limits 
+of the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 
+Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of 
+water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 
+Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction 
+/ demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+36
+Waste production and output flows
+Waste production
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Hazardous waste disposed kg 2.02E+01 3.56E-01 4.06E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 7.66E-03 0.00E+00 7.53E-02 0.00E+00
+Non-hazardous waste disposed kg 3.99E+00 5.67E-01 2.65E-01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.77E-02 0.00E+00 9.22E+00 0.00E+00
+Radioactive waste disposed kg 2.02E-02 3.03E-04 4.05E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 6.90E-06 0.00E+00 4.61E-05 0.00E+00
+Output flows
+Results per functional or declared unit
+Production 
+phase Construction phase Use phase End of life phase
+Components for re-use kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Material for recycling kg 8.03E-01 1.41E-02 1.61E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.91E-04 0.00E+00 1.45E-03 0.00E+00
+Materials for energy 
+recovery
+kg 1.73E-02 3.68E-03 3.61E-04 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 8.01E-05 0.00E+00 6.47E-04 0.00E+00
+Exported energy, 
+electricity
+MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Exported energy, thermal MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Information on biogenic carbon content
+Results per functional or declared unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO2.
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+D Benefits and 
+loads
+beyond the limits of 
+the system
+Indicator
+Unit
+A1 / A2 / A3
+A4 Transport
+A5 Installation
+B1 Use
+B2 Maintenance
+B3 Repair
+B4 Replacement
+B5 
+Refurbishment
+B6 Energy use
+B7 Use of water
+C1 
+Deconstruction / 
+demolition
+C2 Transport
+C3 Waste 
+treatment
+C4 Removal
+37
+6. Additional Information
+Emissions in the indoor air:
+URSA XPS NVII L contributes to indoor air quality. They meet the voluntary EU 
+standards for VOC emissions, as attested by Eurofins' INDOOR AIR COMFORT 
+certification.
+REACH:
+Regulation (EC) No. 1907/2006 of the European Parliament and of the 
+Council of 18 December 2006 concerning Registration, Evaluation, 
+Authorization and Restriction of Chemicals (REACH).
+The extruded polystyrene products manufactured by URSA are defined as “articles” 
+according to the article 3 (3) of EC Regulation 1907/2006 (REACH). Articles, whose 
+functionality is more determinate by the shape, surface or design given in their 
+production process, than by its chemical composition.
+There, according to Art. 2 of EC Regulation 1907/2006 (REACH) our articles are 
+excluded from the EC Regulation 1907/2006 (REACH).
+Our products do not contain Substances of Very High Concern (SVHC) in a higher 
+concentration than 0,01 % by weight according to the last update of the candidate 
+list know at the date this document was issued.
+ECHA-European Chemicals Agency regularly published an update SHVC list. The 
+validity of this statement is therefore of ECHA new publications.
+Circular Economy:
+Recycled polystyrene Content: 
+According to ISO 14021:
+1) Recycled Content is a Proportion, by mass, of recycled material in a product. 
+Only pre-consumer and post-consumer materials shall be considered as 
+recycled content, consistent with the following use of terms,
+Pre-consumer material: Material diverted from waste stream during a 
+manufacturing process. Excluded is reutilization of materials such as rework, 
+regrind or scrap generated in a process and capable of being reclaimed within the 
+same process that generated it.
+38
+Post-consumer material: Material generated by households or by commercial, 
+industrial and institutional facilities in their role as end-users of the product which 
+can no longer be used for its intended purpose. This includes returns of materials 
+from the distribution chain.
+2) Recovered material: Material that would have otherwise been disposed of a 
+waste or used for energy recovery but has instead been collected and 
+recovered as a material input, in lieu of new primary material, for a recycling 
+or a manufacturing process.
+For the Bondeno plant, in the year 2020, the values are:
+% Recovered 
+material
+% Recycled content 
+(According to 14021)
+% Total 
+recycled 
+Pre- consumer Post-consumer % Total
+URSA XPS 0 0 47 47 47
+European Waste Codes
+Waste extruded polystyrene in the module A5 and C will be classified according to 
+the European Waste Codes: 
+17 06 04 insulation materials other than those mentioned in 17 06 01 and 
+17 06 03
+7. Differences versus previous versions
+The new version (v1) has been affected by the following editorial modifications:
+- Replacement of the A+ certificate with Eurofins. 
+8. References
+- ISO 14040:2006 Environmental management — Life cycle assessment —
+Principles and framework
+- ISO 14044:2006 Environmental management — Life cycle assessment —
+Requirements and guidelines
+- EN 15804:2012+A2:2019 Sustainability of construction works -
+Environmental product declarations - Core rules for the product category 
+of construction products
+- PCR 2019:14-c-PCR-005 c-PCR-005 Thermal Insulation products (EN 
+16783) (2019-12-20) 
+- PCR 2012:01-Sub-PCR-I Sub-PCR-I Thermal insulation products (EN 
+16783) (2021-11-08)
+- General Programme Instructions of the International EPD® System. 
+Version 3.01.
+- LCA Report (Version 1 – 26.01.2023)
+39
